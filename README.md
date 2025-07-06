@@ -17,22 +17,6 @@ A curated collection of classical **design pattern implementations in PHP**, foc
 
 > Each pattern is located in its own folder under `src/`, with corresponding unit tests in the `tests/` directory.
 
----
-
-## 📁 Project Structure
-
-patterndesign/
-├── src/ # Source code (patterns grouped by category)
-│ └── Singleton/
-│ └── Factory/
-│ └── Observer/
-├── tests/ # Unit tests (PHPUnit)
-├── composer.json # Dependency configuration (PSR-4 autoloading)
-├── phpunit.xml # Test runner configuration
-└── README.md
-
----
-
 ## 🧰 Tech Stack
 
 - **PHP 7.1+**
